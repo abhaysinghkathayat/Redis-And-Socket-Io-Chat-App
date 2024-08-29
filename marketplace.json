@@ -1,0 +1,53 @@
+{
+  "app_name": "Basic Redis chat app in Nodejs",
+  "description": "Showcases how to impliment chat app in Node.js, Socket.IO and Redis",
+  "type": "App",
+  "contributed_by": "Redis",
+  "repo_url": "https://github.com/redis-developer/basic-redis-chat-app-demo-nodejs",
+  "preview_image_url": "https://raw.githubusercontent.com/redis-developer/basic-redis-chat-app-demo-nodejs/master/images/app_preview_image.png",
+  "download_url": "https://github.com/redis-developer/basic-redis-chat-app-demo-nodejs/archive/main.zip",
+  "hosted_url": "",
+  "quick_deploy": "true",
+  "deploy_buttons": [
+    {
+      "heroku": "https://heroku.com/deploy?template=https://github.com/redis-developer/basic-redis-chat-app-demo-nodejs"
+    },
+    {
+      "Google": "https://deploy.cloud.run/?git_repo=https://github.com/redis-developer/basic-redis-chat-app-demo-nodejs.git"
+    }
+  ],
+  "language": [
+    "JavaScript"
+  ],
+  "redis_commands": [
+    "AUTH",
+    "INCR",
+    "DECR",
+    "HMSET",
+    "EXISTS",
+    "HEXISTS",
+    "SET",
+    "GET",
+    "HGETALL",
+    "ZRANGEBYSCORE",
+    "ZADD",
+    "SADD",
+    "HMGET",
+    "SISMEMBER",
+    "SMEMBERS",
+    "SREM",
+    "PUBLISH",
+    "SUBSCRIBE"
+  ],
+  "redis_use_cases": [
+    "Pub/Sub"
+  ],
+  "redis_features": [],
+  "app_image_urls": [
+    "https://github.com/redis-developer/basic-redis-chat-app-demo-nodejs/raw/main/docs/screenshot001.png"
+  ],
+  "youtube_url": "https://www.youtube.com/watch?v=miK7xDkDXF0",
+  "special_tags": [],
+  "verticals": [],
+  "markdown": "https://github.com/redis-developer/basic-redis-chat-app-demo-nodejs/raw/main/README.md"
+}
